@@ -1,0 +1,6 @@
+Data set
+Preprocessed Images
+https://drive.google.com/drive/folders/1Kj9aqXKKxCypN9PldMDr4nAmD_Wx5pZV?usp=drive_link
+Raw Images
+The dataset selected for this task is the Expression in-the-Wild (ExpW)  dataset. The dataset can be downloaded from the following link:
+https://drive.google.com/drive/folders/1SDcI273EPKzzZCPSfYQs4alqjL01Kybq 
